@@ -1,0 +1,27 @@
+body {
+    background-color: rgb(0, 229, 255);
+    color: whitesmoke;
+    font-family:Arial
+}
+
+h1 {
+    font-family: Impact;
+    background-color:crimson
+}
+
+h2 {
+    font-family: Impact;
+    background-color:crimson
+}
+
+a {
+    color:crimson
+}
+
+.more-info {
+    background-color: lightsalmon
+}
+
+#home {
+    background-color:cornsilk
+}
